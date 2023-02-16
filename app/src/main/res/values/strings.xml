@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HardikGoyal_menu</string>
+    <string name="m1">Iphone</string>
+    <string name="m2">Laptop</string>
+    <string name="m3">Watch</string>
+    <string name="m4">Mobile</string>
+    <string name="m5">Android</string>
+    <string name="m6">OnePlus</string>
+    <string name="m7">Ipad</string>
+    <string name="m8">Macbook</string>
+</resources>
